@@ -9,3 +9,7 @@ def map_to_negativize(source_array)
   end
   return negative_values
 end
+
+def map_to_no_changes(source_array)
+  return source_array
+end
