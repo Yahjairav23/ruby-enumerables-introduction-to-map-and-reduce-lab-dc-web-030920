@@ -1,5 +1,4 @@
-# My Code here....
-request 'pry'
+# My Code here...
 
 def map_to_negativize(source_array)
   negative_values = []
